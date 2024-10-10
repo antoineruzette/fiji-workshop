@@ -65,6 +65,6 @@ Images
        
        <p><a href="_static/images/nuclei_timelapse.tif" download>[nuclei_timelapse.tif]</a></p>
 
-16. .. raw:: html
+17. .. raw:: html
        
        <p><a href="_static/images/DAPI_mask.tif" download>[DAPI_mask.tif]</a></p>
