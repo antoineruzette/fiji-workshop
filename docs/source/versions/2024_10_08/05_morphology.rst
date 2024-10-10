@@ -1,5 +1,5 @@
-Cell segmentation and measurements
-=======================================
+Morphological filters
+======================
 
 .. raw:: html
 
