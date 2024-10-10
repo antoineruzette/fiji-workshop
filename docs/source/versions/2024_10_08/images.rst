@@ -52,3 +52,19 @@ Images
 13. .. raw:: html
        
        <p><a href="_static/images/checkerboard.tif" download>[checkerboard.tif]</a></p>
+
+14. .. raw:: html
+       
+       <p><a href="_static/images/exercise_morphology.tif" download>[exercise_morphology.tif]</a></p>
+
+15. .. raw:: html
+       
+       <p><a href="_static/images/for_cellpose.tif" download>[for_cellpose.tif]</a></p>
+
+16. .. raw:: html
+       
+       <p><a href="_static/images/nuclei_timelapse.tif" download>[nuclei_timelapse.tif]</a></p>
+
+16. .. raw:: html
+       
+       <p><a href="_static/images/DAPI_mask.tif" download>[DAPI_mask.tif]</a></p>
